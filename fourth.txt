@@ -1,0 +1,1 @@
+Will test comand git commit -a -m "Will it add the fourth.txt? Sopouse not."
